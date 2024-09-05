@@ -4,7 +4,7 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-(11)%2096402%205402-6633cc?style=flat-square&logo=whatsapp&logoColor=white&logoSize=auto&color=grey&link=https%3A%2F%2Fwa.me%2F5511964025402%3Ftext%3DOl%C3%A1%25C3%25A1)](https://wa.me/5511964025402?text=Ol%C3%A1)
 [![MaildoTru Badge](https://img.shields.io/badge/-victormontibeller%40hotmail.com-6633cc?style=flat-square&logo=maildotru&logoSize=auto&color=grey&link=mailto%3Avictormontibeller%40hotmail.com)](mailto:victormontibeller@hotmail.com)
 
-## (Senior Software Developer | Software Architecture | SQL | JAVA | Spring | Swift | VFP)
+## Senior Software Developer | Software Architecture | SQL | JAVA | Spring | Swift | VFP
 
 Professional with 8 years of solid experience in developing ERP systems, I am a versatile and results-oriented professional.
 Competent in customizing and integrating various ERP modules to meet specific business needs.
