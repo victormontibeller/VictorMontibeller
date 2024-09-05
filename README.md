@@ -11,6 +11,7 @@ Competent in customizing and integrating various ERP modules to meet specific bu
 Ability to identify and resolve technical problems, offering consultative support to users and ensuring the continuous and efficient operation of the ERP and its integrations with other systems.
 Strong ability to analyze requirements, develop robust technical solutions and train end users.
 
+
 - 👩‍💻 Senior Software Developer @[StarSoft](https://starsoft.com.br/)
 - 🎓 Graduated in Systems Development @[Metodista](https://metodista.br/)
 - ♨️ Postgraduate in JAVA Architecture @[FIAP](https://www.fiap.com.br/)
