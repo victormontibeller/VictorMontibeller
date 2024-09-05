@@ -13,8 +13,6 @@
 - 💻 Swift Student @[IOS LAB](https://ioslab.com.br/)
 - 🌐 Passionate about Web Development
 
-<div align="center">
-  
+<div align="left">
 [![Montibeller top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormontibeller&theme=grey-white)](https://github.com/anuraghazra/github-readme-stats)
-  
  </div>
