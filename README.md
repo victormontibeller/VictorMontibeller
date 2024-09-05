@@ -6,3 +6,15 @@
 
 ## My name is Victor Montibeller
 (Senior Software Developer | Software Architecture | SQL | JAVA | Spring | Swift | VFP)
+
+- 👩‍💻 Senior Software Developer @[StarSoft](https://starsoft.com.br/)
+- 🎓 Graduated in Systems Development @[Metodista](https://metodista.br/)
+- ♨️ Postgraduate in JAVA Architecture @[FIAP](https://www.fiap.com.br/)
+- 💻 Swift Student @[IOS LAB](https://ioslab.com.br/)
+- 🌐 Passionate about Web Development
+
+<div align="center">
+  
+[![Montibeller top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victormontibeller&theme=grey-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
