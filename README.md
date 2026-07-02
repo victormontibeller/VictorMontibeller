@@ -45,11 +45,8 @@ My focus is combining ERP and legacy system experience with modern backend techn
 <br />
 
 <p align="left">
-  <a href="https://github.com/victormontibeller">
-    <img
-      height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormontibeller&layout=compact&theme=transparent&hide_border=true"
-      alt="Most used languages"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormontibeller&layout=compact&langs_count=6&hide_border=true"
+    alt="Most used languages"
+  />
 </p>
